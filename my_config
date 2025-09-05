@@ -12,6 +12,8 @@
 ;设置规则标志位
 ruleset=📲 Telegram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
+ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
+ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
 ruleset=🤖 AI,https://github.com/ACL4SSR/ACL4SSR/raw/refs/heads/master/Clash/Ruleset/AI.list
 ruleset=📹 YouTube,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 ruleset=📺 巴哈姆特,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
@@ -42,8 +44,6 @@ ruleset=🐟 漏网之鱼,[]FINAL
 ;未启用规则标志位
 ;ruleset=🤖 OpenAI,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list
 ;ruleset=🔍 Google,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/google.list
-;ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
-;ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
 ;ruleset=🎮 Nintendo,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/Nintendo.list
 ;ruleset=📈 IBKR,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/ibkr.list
 ;ruleset=👛 Wallet,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/wallet.list
