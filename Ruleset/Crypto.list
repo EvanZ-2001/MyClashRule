@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,bitgetapp.com
 DOMAIN-SUFFIX,bitgetapps.com
 DOMAIN-SUFFIX,bitgetimg.com
 DOMAIN-SUFFIX,bitget.fit
+DOMAIN-SUFFIX,bitget.cloud
 
 # Bybit
 DOMAIN,bybit-exchange.github.io
