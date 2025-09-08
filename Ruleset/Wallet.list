@@ -1,5 +1,14 @@
 # 虚拟货币钱包服务
 
+# bybit
+DOMAIN-SUFFIX,monitor-frontend-collector.a.bybit-aws.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+
 # huobi
 DOMAIN-SUFFIX,huobi.com.bo
 DOMAIN-SUFFIX,huobi.com
