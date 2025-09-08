@@ -58,4 +58,4 @@ DOMAIN-SUFFIX,dukascopy.com
 DOMAIN-SUFFIX,zen.com
 
 # wise
-DOMAIN-SUFFIX,wise.com
+;DOMAIN-SUFFIX,wise.com
