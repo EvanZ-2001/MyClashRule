@@ -131,17 +131,6 @@ DOMAIN-SUFFIX,coinex.com
 # Dune
 DOMAIN-SUFFIX,dune.com
 
-# Gate
-# DOMAIN-SUFFIX,gate.io
-# DOMAIN-SUFFIX,gate.com
-# DOMAIN-SUFFIX,gateimg.com
-# DOMAIN-SUFFIX,gateio.live
-# DOMAIN-SUFFIX,gatedata.org
-# DOMAIN-SUFFIX,gatetrace.com
-# DOMAIN-SUFFIX,gatexsecurity.com
-# DOMAIN-SUFFIX,panpno.com
-# DOMAIN-SUFFIX,gatenode.space
-
 # Analysis
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,aicoin.com
@@ -172,7 +161,7 @@ DOMAIN-SUFFIX,defipulse.com
 DOMAIN-SUFFIX,apy999.com
 DOMAIN-SUFFIX,defieye.io
 DOMAIN-SUFFIX,dextools.io
-DOMAIN-SUFFIX,tradingview.com
+# DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,dcabtc.com
 DOMAIN-SUFFIX,chainalysis.com
 DOMAIN-SUFFIX,cryptoquant.com
