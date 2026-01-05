@@ -1,3 +1,10 @@
+# 内容：谷歌服务
+# 参考来源：https://raw.githubusercontent.com/szkane/ClashRuleSet/refs/heads/main/Clash/Ruleset/Google.list
+
+# 自定义部分
+DOMAIN,antigravity-unleash.goog
+
+# 参考部分
 DOMAIN,dl.google.com
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-KEYWORD,gmail
